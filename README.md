@@ -1,1 +1,1 @@
-Todos os direitos reservados a https://atendechat.com
+Todos los derechos reservados https://sychost.com
