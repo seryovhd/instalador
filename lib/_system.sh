@@ -39,7 +39,7 @@ system_git_clone() {
   sleep 2
 
   sudo su - deploy <<EOF
-  git clone https://github.com/seryovhd/codatendechat-main.git /home/deploy/${instancia_add}/
+  git clone hsttps://github.com/seryovhd/codatendechat-main.git /home/deploy/${instancia_add}/
 
   sleep 2
 }
